@@ -1,13 +1,12 @@
-/**
- * Copyright (c) 2021, An-Da Li 
+/** 
+ * Copyright (c) 2023, An-Da Li. All rights reserved. 
+ * Please read LICENCE for license terms.
  * Coded by An-Da Li
- * email: andali1989@163.com
+ * Email: andali1989@163.com
  *
- * This is an implementation of Improved Binary Sticky PSO (ISBPSO) for Feature Selection. 
- * For a detailed description of the method please refer to 
- *
- * A.-D. Li, B. Xue, M. Zhang, Improved binary particle swarm optimization for feature selection
- * with new initialization and search space reduction strategies, Applied Soft Computing Journal 106 (2021) 107302.
+ * Li, A.-D., Xue, B., & Zhang, M. (2021). A Forward Search Inspired Particle Swarm Optimization Algorithm 
+ * for Feature Selection in Classification. IEEE Congress on Evolutionary Computation, CEC 2021, Kraków, 
+ * Poland, June 28 - July 1, 2021, 786–793. https://doi.org/10.1109/CEC45853.2021.9504949
  *
  */
 
